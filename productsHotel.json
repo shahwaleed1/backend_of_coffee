@@ -1,0 +1,65 @@
+{
+    "hotelMenu": [
+      {
+        "productName": "Margherita Pizza",
+        "description": "Classic pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
+        "rate": "4.5",
+        "price": 12.99
+      },
+      {
+        "productName": "Caesar Salad",
+        "description": "Crisp romaine lettuce with parmesan cheese, croutons, and Caesar dressing.",
+        "rate": "4.2",
+        "price": 8.99
+      },
+      {
+        "productName": "Grilled Chicken Sandwich",
+        "description": "Juicy grilled chicken served on a toasted bun with lettuce, tomato, and mayo.",
+        "rate": "4.7",
+        "price": 10.99
+      },
+      {
+        "productName": "Spaghetti Carbonara",
+        "description": "Traditional Italian pasta dish with creamy sauce, pancetta, and parmesan.",
+        "rate": "4.6",
+        "price": 14.50
+      },
+      {
+        "productName": "Butter Chicken",
+        "description": "Rich and creamy Indian curry served with basmati rice or naan bread.",
+        "rate": "4.8",
+        "price": 15.99
+      },
+      {
+        "productName": "Cheeseburger",
+        "description": "Classic beef burger topped with melted cheese, served with fries.",
+        "rate": "4.4",
+        "price": 11.50
+      },
+      {
+        "productName": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a gooey center, served with vanilla ice cream.",
+        "rate": "4.9",
+        "price": 7.99
+      },
+      {
+        "productName": "Grilled Salmon",
+        "description": "Perfectly grilled salmon fillet served with roasted vegetables and lemon butter sauce.",
+        "rate": "4.7",
+        "price": 19.99
+      },
+      {
+        "productName": "Vegetable Stir Fry",
+        "description": "A mix of fresh vegetables stir-fried in a savory soy-ginger sauce.",
+        "rate": "4.3",
+        "price": 9.99
+      },
+      {
+        "productName": "Tiramisu",
+        "description": "Classic Italian dessert with layers of mascarpone cheese, coffee, and cocoa.",
+        "rate": "4.8",
+        "price": 6.99
+      }
+    ]
+  }
+  
